@@ -1,0 +1,8 @@
+# Build artifacts
+**/out/
+*.class
+
+# IDE
+.idea/
+*.iml
+

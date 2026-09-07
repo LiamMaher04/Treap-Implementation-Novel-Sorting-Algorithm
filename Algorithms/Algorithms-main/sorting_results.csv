@@ -1,0 +1,9 @@
+Algorithm,Sorted Elements
+QuickSort,-8,-3,-2,-1,0,0,1,2,4,7
+BubbleSort,-8,-3,-2,-1,0,0,1,2,4,7
+BucketSort,-8,-3,-2,-1,0,0,1,2,4,7
+MergeSort,-8,-3,-2,-1,0,0,1,2,4,7
+HeapSort,-8,-3,-2,-1,0,0,1,2,4,7
+InsertionSort,-8,-3,-2,-1,0,0,1,2,4,7
+SelectionSort,-8,-3,-2,-1,0,0,1,2,4,7
+SuperMergeSort,-8,-3,-2,-1,0,0,1,2,4,7
